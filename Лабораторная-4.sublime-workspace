@@ -1,0 +1,730 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"T_",
+				"T_r"
+			],
+			[
+				"T",
+				"T_r"
+			],
+			[
+				"y",
+				"yList"
+			],
+			[
+				"omeg",
+				"omega_r"
+			],
+			[
+				"rh",
+				"rho_pl"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"h",
+				"hp_1"
+			],
+			[
+				"d",
+				"defs\tMethod"
+			],
+			[
+				"l",
+				"linspace"
+			],
+			[
+				"Bz",
+				"Bz_perp"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"phi",
+				"phi_0"
+			],
+			[
+				"v0",
+				"v0z"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"ex",
+				"ex_g"
+			],
+			[
+				"n",
+				"n0"
+			],
+			[
+				"U_",
+				"U_a"
+			],
+			[
+				"fo",
+				"formule"
+			],
+			[
+				"eq_T_",
+				"eq_T_2"
+			],
+			[
+				"e1",
+				"eq_T_1"
+			],
+			[
+				"eq",
+				"eq_n_1"
+			],
+			[
+				"eq_",
+				"eq_n_1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/osabio/Документы/Python/import csv.py",
+			"settings":
+			{
+				"buffer_size": 388,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "import csv"
+			}
+		},
+		{
+			"file": "/home/osabio/Документы/Лабораторные/Лабораторная_5/lab5.tex",
+			"settings":
+			{
+				"buffer_size": 716,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.tex",
+			"settings":
+			{
+				"buffer_size": 17559,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 38.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"jum",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"snippet roo",
+				"Snippet: nth root"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pdf",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"latextools",
+				"LaTeXTools: Show toggles"
+			],
+			[
+				"latex",
+				"Emmet: Evaluate Math Expression"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"fig",
+				"Snippet: figure"
+			],
+			[
+				"fug",
+				"Snippet: figure"
+			],
+			[
+				"ascii",
+				"ASCII Decorator: Default Font"
+			],
+			[
+				"asc",
+				"ASCII Decorator: Font Selector"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ipy",
+				"Set Syntax: IPython Notebook"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 169.0,
+		"history":
+		[
+			"sublime.log_input(True) ",
+			"ublime.log_input(True) ",
+			"sublime.log_commands(True)",
+			"   sublime.log_commands(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/osabio/Документы/Лабораторные/Лабораторная_5/addons/lab-titlepage.tex",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/index.tex",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/regions.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/Частотные-свойства.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/Линейность-верт-усил.py",
+		"/home/osabio/Документы/Теория: физика, матстатистика, механика/lab-osc.txt",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_5/протокол/record.tex",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/addons/lab-head.tex",
+		"/home/osabio/Документы/Python/names.csv",
+		"/home/osabio/.config/sublime-text-3/Local/Session.sublime_session",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_1/otchet.tex",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/znz.tex",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/rzr.tex",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/[no file]",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/развертка.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/other/tikz2.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/untitled.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/test.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/experience/table_10k.out",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/experience/table_1k_points.out",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/Лабораторная-4.sublime-project",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/img/regions_1k.tex",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/img/regions_10k.tex",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/Фигуры-Лиссажу.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/развертка-сдвиг.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/img/regions.tex",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/table_10k.out",
+		"/home/osabio/Документы/Механика/1-65.tex",
+		"/home/osabio/Документы/Механика/booklet.tex",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_2/otchet_2.tex",
+		"/home/osabio/Рабочий стол/Лабораторные/Лабораторная_5/Таблица-падений.py",
+		"/home/osabio/Документы/Теория: физика, матстатистика, механика/lab-osc.doc",
+		"/home/osabio/Документы/Теория: физика, матстатистика, механика/1evdokimov_i_n_eliseev_n_yu_molekulyarnye_mekhanizmy_vyazkost.pdf",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_2/ex_3.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_2/ex_2.py",
+		"/home/osabio/Загрузки/spectrum_demo.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/addons/lab-titlepage.tex",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_1/phi.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_2/ex_1.py",
+		"/home/osabio/Документы/Python/qt5.py",
+		"/home/osabio/Документы/Лабораторные/.git/info/exclude",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_5/Таблица-падений.py",
+		"/usr/lib/python3.5/site-packages/matplotlib/__init__.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/index.tex",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/зоны-синхронизации.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/latex.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/срыв.tex",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/addons/lab-head.tex",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/tikz2.tex",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/table.out",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/addons/lab-kol.tex",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/zones.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/area.out",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_2/atvud.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_4/tikz2.py.out",
+		"/home/osabio/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/график.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/горизонтально отклоняющие пластины.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/Пролет в пластинах.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/допуск-циклоида.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/ex1.py",
+		"/home/osabio/Документы/Sympy=python+latex/ex.py",
+		"/home/osabio/Документы/Sympy=python+latex/em.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/пролет-в-поле-земли.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/3Д-график-начало.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/вертикально отклоняющие пластины.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/biblio.bib",
+		"/home/osabio/.config/sublime-text-3/Packages/LaTeXTools/LaTeXTools.sublime-settings",
+		"/run/media/osabio/ECE7-BEDA/Оленок/сценарий.txt",
+		"/run/media/osabio/ECE7-BEDA/СР. група РЕПЕРТУАР Веракса/Детские - Вот какая ёлочка.txt",
+		"/home/osabio/.config/sublime-text-3/Packages/LaTeXTools/Default (Linux).sublime-keymap",
+		"/home/osabio/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/osabio/Рабочий стол/Оленок/out/ласковая-песенка.tex",
+		"/home/osabio/Рабочий стол/Оленок/ласковая-песенка.tex",
+		"/home/osabio/Документы/S-b-o/страница_0004_0002.txt",
+		"/home/osabio/.config/sublime-text-3/Packages/User/gather-snippet.sublime-snippet",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/[no file]",
+		"/home/osabio/Загрузки/cases.sty.html",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/addons/lab-kol.tex",
+		"/home/osabio/.config/sublime-text-3/Packages/LaTeXTools/LaTeXTools (Advanced).sublime-settings",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/other/index.bbl",
+		"/home/osabio/Книга1.tex",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/Пролет в пластинах=end.py",
+		"/home/osabio/Документы/Latex/3d10.tex",
+		"/home/osabio/Документы/Latex/3d4.tex",
+		"/home/osabio/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/tmp/tmpogs954.txt",
+		"/home/osabio/.config/sublime-text-3/Packages/ASCII-Decorator/Default (Linux).sublime-keymap",
+		"/home/osabio/.config/sublime-text-3/Packages/ASCII-Decorator/ASCII Decorator.sublime-settings",
+		"/home/osabio/Документы/сценарий.txt",
+		"/home/osabio/Документы/инн",
+		"/home/osabio/гкл.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/sympytex.py",
+		"/home/osabio/Документы/nsu248.txt",
+		"/home/osabio/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/run/media/osabio/USB DISK/Методические разработки/plan.txt",
+		"/home/osabio/Рабочий стол/Оленок/plan1.txt",
+		"/home/osabio/Рабочий стол/Оленок/plan.txt",
+		"/home/osabio/Документы/Sympy=python+latex/latex2sympy-master/process_latex.py",
+		"/home/osabio/Документы/Sympy=python+latex/latex2sympy-master/test.py",
+		"/home/osabio/Документы/Софт/FINE READER7_(soft-landia.ru)/Crack/ç¨â âì §¤¥áì.txt",
+		"/home/osabio/Документы/Софт/FINE READER7_(soft-landia.ru)/Crack/pczone_net.nfo",
+		"/home/osabio/Загрузки/ABBYY.FineReader.v11.0.113.164/RePack/README.txt",
+		"/home/osabio/.config/sublime-text-3/Packages/LaTeXTools/builders/traditionalBuilder.py",
+		"/home/osabio/.config/sublime-text-3/Packages/LaTeXTools/builders/pdfBuilder.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/build/index.sout",
+		"/home/osabio/.config/sublime-text-3/Packages/LaTeXTools/builders/newBuilder.py",
+		"/usr/share/texmf-dist/tex/latex/sympytexpackage/sympytex.sty",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/build/sympytex.py",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/build/index.sympy",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/build/index.out",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/build/index.fls",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/other/index.sympy",
+		"/home/osabio/Документы/Лабораторные/Лабораторная_3/other/index.out"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"menu",
+			"}\n",
+			"Развертка сигнала",
+			"print",
+			"$>>.",
+			"pm50",
+			"109",
+			"*",
+			"Класс точности вольтметра $2.5$, для максимального значения шкалы $1.5$ вольт $\\Delta{U}=2.5*1.5/100=0.0375$ В, для максимального значения шкалы $15\\cdot10^{-3}$ вольт $\\Delta{U}=2.5\\cdot15\\cdot10^{-3}/100=0.000375$ В.",
+			"*",
+			"hi",
+			"xi",
+			"var",
+			"newpage",
+			"lft",
+			"newpage",
+			"lft",
+			"cxem",
+			"legend",
+			"ht!",
+			"85",
+			"2",
+			"multicolumn",
+			"locking_freq",
+			"\t",
+			"/\\Scale",
+			"eta",
+			"live",
+			"preview",
+			"np",
+			"diff_dvx2",
+			"x_t",
+			"{}",
+			"ctrl+j",
+			"jump",
+			"to_tex",
+			"totex",
+			"jump",
+			"table",
+			"mu",
+			"frc",
+			"h!",
+			"h",
+			"ашп",
+			"show",
+			"l",
+			"sync",
+			"dy}{dt",
+			"V",
+			"V_z",
+			"V_y",
+			"V_x",
+			"dI",
+			"75",
+			"dl",
+			"d",
+			"),",
+			"Longrightarrow",
+			"25",
+			"144",
+			"V_z",
+			"open",
+			"sympy",
+			"script",
+			"/home/osabio/.config/sublime-text-3/Packages/LaTeXTools/builders/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Осциллограмма сигнала",
+			"\\cdot",
+			"H",
+			"locking_A",
+			"    ",
+			" ",
+			"ht!",
+			"v_z",
+			"v_y",
+			"v_x",
+			"L",
+			"v_z"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/osabio/Документы/Python/import csv.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								388,
+								388
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import csv",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/osabio/Документы/Лабораторные/Лабораторная_5/lab5.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								479,
+								479
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1327,
+								1395
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 519.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 282.0
+	},
+	"output.figlet_preview":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 201.0
+	},
+	"pinned_build_system": "",
+	"project": "Лабораторная-4.sublime-project",
+	"replace":
+	{
+		"height": 90.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 952.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1280.0
+	},
+	"select_symbol":
+	{
+		"height": 469.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 645.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

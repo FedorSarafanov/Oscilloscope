@@ -1,0 +1,96 @@
+%Преамбула
+\documentclass[a4paper,12pt,oneside]{article}
+
+\usepackage{geometry}
+\geometry{left=3cm,right=2cm,top=3cm,bottom=3cm,bindingoffset=0cm}
+\usepackage{python}
+\usepackage{cmap}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8x]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage{misccorr}
+\usepackage{amssymb,amsfonts,amsmath,amsthm}  % математические дополнения от АМС
+\usepackage{envmath}  % многострочные формулы EqSystem
+\usepackage{indentfirst} % Включение отступа первой строки раздела
+\usepackage[usenames,dvipsnames]{color} % названия цветов
+
+\usepackage{tikz}
+% \usepackage{pgfplotsthemetol}
+
+\usetikzlibrary{%
+    decorations.pathreplacing,%
+    decorations.pathmorphing,%
+    arrows,%
+    patterns
+}
+\newcommand{\Scale}{1}
+\newcommand{\lft}{9}
+\newcommand{\rft}{10.43*1.5}
+\newcommand{\Xstep}{1.5 }
+\newcommand{\Ystep}{1.5 *20}
+\newcommand{\Radius}{0.1}
+\newcommand{\Color}{black}
+
+%Содержимое документа
+\begin{document}
+	\begin{figure}[tb]
+		% \centering	
+		\hspace{-1.5cm}	
+	\begin{tikzpicture}%[scale=\Scale] % легко изменить масштаб
+ 	% \draw[ultra thick, red] (3,0) sin (4,1); 
+ 	% \draw[black] (0,0) sin (1,1); 
+% 
+	\draw[x=0.5cm,y=1cm, ultra thick, red] 
+        (3,0) coordinate (A) sin (4,1) cos (5,0) sin (6,-1) cos (7,0)
+              sin (8,1) cos (9,0) sin (10,-1) cos (11,0) coordinate (B); 
+    \draw (0,0) -- (1,1)
+     \fill[red] (intersection of A--B and 0,0--1,1) circle (2pt);	
+		% \draw[fill,yellow!60] 	
+	% 						(1.5,0) --
+	% 						(3.0000,1.0000) --
+	% 						(4.5000,2.0000) --
+	% 						(6.0000,3.0000) --
+	% 						(6.7500,4.0000) --
+	% 						(7.5000,5.0000) --
+	% 						(9.0000,6.0000) --
+	% 						(9.7500,7.0000) --
+	% 						(10.5000,8.0000) --
+	% 						(12,\lft) --
+	% 						(\rft,\lft) --
+	% 						(\rft,-\lft) --
+	% 						(15.0000,-8.0000) --
+	% 						(13.5000,-7.0000) --
+	% 						(10.5000,-6.0000) --
+	% 						(9.0000,-5.0000) --
+	% 						(6.7500,-4.0000) --
+	% 						(5.2500,-3.0000) --
+	% 						(3.7500,-2.0000) --
+	% 						(2.2500,-1.0000) -- cycle;
+				
+
+	% \draw[step=.1cm , gray!20] (0,-\lft) grid (\rft ,\lft);
+	% \draw[step=0.5cm , gray!50] (0,-\lft) grid (\rft ,\lft);
+	% \draw[step=1cm , gray!80] (0,-\lft) grid (\rft ,\lft);
+
+	% \draw[-{>[scale=1.0]}] (-0,0) -- (10*1.5 +1 ,0) node[anchor=north west] {\scalebox{1.5}{$x$}};
+	% \draw[->] (0,-\lft) -- (0,\lft+1 ) node[anchor=east] {\scalebox{1.5}{$y$}};
+
+	% \foreach \x in {1,2,3,4,5,6,7,8,9,10} {
+	% \draw (\x*\Xstep,0.05) -- (\x*\Xstep,-0.05);
+	% \draw (\x*\Xstep,0) node[anchor=north] {\scalebox{1.5}{$\x$}};
+	% }
+
+	% \foreach \y in {-0.3,-0.2,-0.1, 0, 0.1,0.2,0.3} {
+	% \draw (0.05,\y*\Ystep) -- (-0.05,\y*\Ystep);
+	% \draw (0,\y*\Ystep) node[anchor=north west] {\scalebox{1.5}{$\y$}};
+	% }
+
+	% % \draw[blue] (15,0.5) node[anchor=east] {\scalebox{1.4}{Синхронизованная зона}};
+	% % \draw[blue] (9.5,8.2) node[anchor=east] {\scalebox{1.4}{Несинхронизованная зона}};
+	% % \draw[blue] (9.5,-8.3) node[anchor=east] {\scalebox{1.4}{Несинхронизованная зона}};
+
+	\end{tikzpicture}
+	% \caption{Зоны синхронизации}
+	\label{fig:figure1}
+\end{figure}
+\end{document}

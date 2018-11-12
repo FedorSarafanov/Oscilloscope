@@ -1,0 +1,10 @@
+# Fdb version 3
+["pdflatex"] 1481048978 "regions_10k.tex" "other/regions_10k.pdf" "regions_10k" 1481048978
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1471317729 31669 df537245012f3e5f05bdc55644b7a3df ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1479641706 7252864 10ea861b7f719debf3d7a593e7367674 ""
+  "experience/table_10k.out" 0 -1 0 ""
+  "other/regions_10k.aux" 1481048819 8 a94a2480d3289e625eea47cd1b285758 ""
+  "regions_10k.tex" 1481048969 1710 68ab507a0ad493c5f0a4c9afba41c9b0 ""
+  (generated)
+  "other/regions_10k.log"
+  "other/regions_10k.pdf"

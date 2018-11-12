@@ -1,0 +1,66 @@
+\def\Scale{1}
+\def\lft{13}
+\def\lftl{3}
+\def\rft{10.43*1.5}
+\def\Xstep{1.5}
+\def\Ystep{1.5*20}
+\def\Radius{0.1}
+\def\Color{black}
+
+\draw[fill,yellow!60] 	
+% 	% (1.5,0) --
+	(0,0) --
+% 	(12,\lft) --
+% 	(\rft,-\lft) --
+	(3.0000, 1.5000) --
+	(5.2500, 3.0000) --
+	(6.7500, 4.5000) --
+	(8.2500, 6.0000) --
+	(9.7500, 7.5000) --
+	(10.5000, 9.0000) --
+	(11.2500, 10.5000) --
+	(12.0000, 12.0000) --
+	%
+	(12,\lft) --
+	(\rft,\lft) --
+	(\rft,0) --
+	% (6.0000, -1.5000) --
+	% (7.5000, -2.1000) --
+						cycle;
+
+\draw[fill,yellow!60] 	
+% 	% (1.5,0) --
+	(0,0) --
+	%
+	(6.0000, -1.5000) --
+	(7.5000, -2.1000) --
+	%
+	(10,-\lftl) --
+	(\rft,-\lftl) --
+	(\rft,0) --
+						cycle;
+			
+% \draw[] (0,0) .. controls (6,4) and (7,2) ..  (12,12);
+\draw[step=.1cm , gray!20] (0,-\lftl) grid (\rft ,\lft);
+\draw[step=0.5cm , gray!50] (0,-\lftl) grid (\rft ,\lft);
+\draw[step=1cm , gray!80] (0,-\lftl) grid (\rft ,\lft);
+
+
+\draw[-{>[scale=1.0]}] (-0,0) -- (10*1.5 +1 ,0) node[anchor=north west] {\scalebox{1.5}{$A$}};
+\draw[->] (0,-\lftl) -- (0,\lft+1 ) node[anchor=east] {\scalebox{1.5}{$\frac{\nu_\text{с}-\nu_\text{р}}{\nu_\text{р}}$}};
+
+
+\foreach \x in {1,2,3,4,5,6,7,8,9,10} {
+	\draw (\x*\Xstep,0.05) -- (\x*\Xstep,-0.05);
+	\draw (\x*\Xstep,0) node[anchor=north] {\scalebox{1.5}{$\x$}};
+}
+
+\foreach \y in {-0.1, 0, 0.1,0.2,0.3,0.4} {
+	\draw (0.05,\y*\Ystep) -- (-0.05,\y*\Ystep);
+	\draw (0,\y*\Ystep) node[anchor=east] {\scalebox{1.5}{$\y$}};
+}
+
+% \draw[blue] (15,0.5) node[anchor=east] {\scalebox{1.4}{Синхронизованная зона}};
+% \draw[blue] (9.5,8.2) node[anchor=east] {\scalebox{1.4}{Несинхронизованная зона}};
+% \draw[blue] (9.5,-8.3) node[anchor=east] {\scalebox{1.4}{Несинхронизованная зона}};
+\input{experience/table_10k.out}
